@@ -1,5 +1,1 @@
-# Exclude all the following files from the downloaded
-# archive.
 
-/addons/gut                export-ignore
-/addons/inkgd/.gitignore   export-ignore
